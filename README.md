@@ -1,4 +1,4 @@
-# Introduction to Scope
+# Introduction to Scope c
 
 ## Learning Goals
 
